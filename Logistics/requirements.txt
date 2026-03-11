@@ -1,0 +1,1 @@
+-e git+https://github.com/aibasel/pyperplan.git@a994c17940b06fbc73d7b8c67b65811877dd1059#egg=pyperplan
