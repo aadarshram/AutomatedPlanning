@@ -1,0 +1,8 @@
+*~
+*.py[cod]
+*.soln
+uv.lock
+.tox/
+build/
+dist/
+pyperplan.egg-info/
